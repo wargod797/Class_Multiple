@@ -1,9 +1,6 @@
 
 # coding: utf-8
-
 # In[ ]:
-
-
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 23 15:24:34 2019
